@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-AI Engineering Student | Building ML & IoT-based Projects 💡 Java • Python  • Javascript • LSTM • NLP 📦 Projects: Air Quality Monitor , Tattvam -web based app
+AI Engineering Student | Building ML & IoT-based Projects 💡 Java • Python  • Javascript • LSTM • NLP 📦 Projects: Air Quality Monitor , Tattvam App , CodeArena.
 
 
 ## 🌐 Socials:
