@@ -13,29 +13,28 @@ AI Engineering Student | Building ML & IoT-based Projects 💡 Java • Python  
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwal-dhande&theme=dark&hide_border=false&cache_bypass=100" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal-Dhande&theme=dark&hide_border=false" alt="GitHub Stats" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal-dhande&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwal-Dhande&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-dhande&theme=dark&hide_border=false&layout=compact&cache_bypass=100" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-Dhande&theme=dark&hide_border=false&layout=compact" alt="Top Langs" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prajwal-dhande&theme=radical&no-frame=false&no-bg=true&margin-w=4&cache_bypass=100" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Prajwal-Dhande&theme=radical&no-frame=false&no-bg=true" alt="Trophies" />
 </div>
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=prajwal-dhande&limit=5&theme=dark&combine_all_yearly_contributions=true&cache_bypass=100" alt="Top Repo" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Prajwal-Dhande&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repo" />
 </div>
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=prajwal-dhande&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Prajwal-Dhande&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
