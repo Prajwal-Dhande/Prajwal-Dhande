@@ -13,7 +13,7 @@ AI Engineering Student | Building ML & IoT-based Projects 💡 Java • Python  
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal-Dhande&theme=dark&hide_border=false" alt="GitHub Stats" />
+  <img src="https://my-github-stats-sandy.vercel.app/api?username=Prajwal-Dhande&theme=dark&hide_border=false" alt="GitHub Stats" />
 </div>
 <br/>
 <div align="center">
@@ -21,7 +21,7 @@ AI Engineering Student | Building ML & IoT-based Projects 💡 Java • Python  
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-Dhande&theme=dark&hide_border=false&layout=compact" alt="Top Langs" />
+  <img src="https://my-github-stats-sandy.vercel.app/api/top-langs/?username=Prajwal-Dhande&theme=dark&hide_border=false&layout=compact" alt="Top Langs" />
 </div>
 
 ## 🏆 GitHub Trophies
