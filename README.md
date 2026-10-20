@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-AI Engineering Student | Building ML & IoT-based Projects 💡 Java • Python  • Javascript • LSTM • NLP 📦 Projects: Air Quality Monitor , Tattvam App , CodeArena.
-
+AI Engineering Undergrad | Building GenAI & Real-Time Web Apps 💡 Python • Java • TS • RAG • Fastify/Node 📦 Projects: SustainGraph AI (ESG RAG), NodeClash, Tattvam App
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/prajwal-dhande-57384b380) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajwaldhande017@gmail.com) 
